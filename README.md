@@ -1,8 +1,10 @@
+<h2> JavaScript Business Card Maker</h2>
+
 This app focuses on simplicity but is the start of larger idea, that of an app that will allow users to build themselves business cards. At the moment however only a rough sketch exists. 
 
 To see a demo:
 
-`https://arssonist.github.io/business-card-maker/`
+<a href="https://arssonist.github.io/business-card-maker"></a>
 
 This app works best in full screen.
 
