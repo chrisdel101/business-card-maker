@@ -4,7 +4,7 @@ This app focuses on simplicity but is the start of larger idea, that of an app t
 
 To see a demo:
 
-<a href="https://arssonist.github.io/business-card-maker"></a>
+https://arssonist.github.io/business-card-maker
 
 This app works best in full screen.
 
